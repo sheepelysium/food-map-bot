@@ -1,0 +1,7 @@
+Flask
+line-bot-sdk
+requests
+langchain-google-genai
+langchain-core
+google-auth
+configparser
